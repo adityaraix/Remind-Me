@@ -11,8 +11,8 @@ This is a simple Flask-based API that allows users to set reminders with a date,
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/remind-me-flask.git
-   cd remind-me-flask
+   git clone https://github.com/your-username/Remind-Me.git
+   cd Remind-Me
    ```
 
 2. **Create a virtual environment (optional but recommended):**
